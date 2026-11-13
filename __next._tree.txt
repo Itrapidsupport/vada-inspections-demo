@@ -1,4 +1,4 @@
 :HL["/vada-inspections-demo/_next/static/chunks/1bcq3hwbiv2wc.css","style"]
 :HC["/",""]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"vj6MmHlfrf8L2aLVKQrwX","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"EUFKVQtX5M-SilJtiqOjo","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
