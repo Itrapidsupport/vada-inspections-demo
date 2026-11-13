@@ -1,0 +1,6 @@
+:HL["/vada-inspections-demo/_next/static/chunks/08uqx3_n2w98d.css","style"]
+:HC["/",""]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"dashboard","h":96,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"slug","t":"d","k":"vada-pm","s":[]},"h":65632,"c":"$Q2"}]]
+0:{"b":"M2HE6cWnG47EvlzrJAswJ","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
