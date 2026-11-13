@@ -1,4 +1,4 @@
-:HL["/vada-inspections-demo/_next/static/chunks/13g6gb6auej8m.css","style"]
+:HL["/vada-inspections-demo/_next/static/chunks/3_3vwft-tvnsj.css","style"]
 :HC["/",""]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"pWhKJWrYnq5HDNWjUVvtx","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"RcfUb-C4PEsFhIUY9lKnA","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
